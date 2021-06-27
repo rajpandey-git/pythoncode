@@ -1,2 +1,3 @@
  hi i am 
-gain to push in git 
+gain to push in git
+push repository 
